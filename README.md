@@ -176,3 +176,8 @@ During our comprehensive testing, we considered multiple deep learning architect
     </tr>
   </tbody>
 </table>
+<strong>Graphs for easier understanding of comparison between models</strong> :
+![Accuracy v/s FPS](https://github.com/WebWizard104/IITISoC-23-IVR1-LaneDetection-using-LimitedComputationPower/assets/117708050/2aab4834-f0c2-4024-8237-4ef5a5ec45d0)
+
+
+
