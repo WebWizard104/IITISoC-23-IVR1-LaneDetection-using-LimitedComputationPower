@@ -34,3 +34,15 @@ Hybridnets
 ├─output_videos     # give path of this folder whi;e saving the results
 ├─video_road_detection.py
 ```
+#### Requirements :
+Give a command :
+```
+cd Hybridnets
+python -r requirements.txt
+
+```
+
+#### Key Files :
+
+(video_road_detection.py)[https://github.com/WebWizard104/IITISoC-23-IVR1-LaneDetection-using-LimitedComputationPower/blob/main/Lane_detection_using_DL/Hybridnets/video_road_detection.py]
+
