@@ -39,11 +39,14 @@ Hybridnets
 Give a command :
 ```
 cd Hybridnets
-python -r requirements.txt
+pip install -r requirements.txt
 
 ```
+#### Downloads :
 
 #### Key Files :
 
-(video_road_detection.py)[https://github.com/WebWizard104/IITISoC-23-IVR1-LaneDetection-using-LimitedComputationPower/blob/main/Lane_detection_using_DL/Hybridnets/video_road_detection.py]
+(video_road_detection.py)[https://github.com/WebWizard104/IITISoC-23-IVR1-LaneDetection-using-LimitedComputationPower/blob/main/Lane_detection_using_DL/Hybridnets/video_road_detection.py] - Run this file for detecting lanes on video saved Test_videos folder
+
+
 
