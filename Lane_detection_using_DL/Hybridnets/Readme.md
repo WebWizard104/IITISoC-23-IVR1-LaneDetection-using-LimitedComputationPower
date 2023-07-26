@@ -12,7 +12,9 @@ HybridNets is an end2end perception network for multi-tasks like  traffic object
 ## Architecture :
 <hr>
 
-[hybridnets_picture.pdf](https://github.com/WebWizard104/IITISoC-23-IVR1-LaneDetection-using-LimitedComputationPower/files/12167588/hybridnets_picture.pdf)
+![Screenshot 2023-07-26 092336](https://github.com/WebWizard104/IITISoC-23-IVR1-LaneDetection-using-LimitedComputationPower/assets/117708050/b76781b5-3caf-4990-88b8-3c1652a591c3)
+
+
 <br>
 HybridNets Architecture has one encoder: backbone network and neck network; two decoders: Detection Head and Segmentation Head
 <br>
