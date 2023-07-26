@@ -18,7 +18,9 @@ HybridNets is an end2end perception network for multi-tasks like  traffic object
 <br>
 HybridNets Architecture has one encoder: backbone network and neck network; two decoders: Detection Head and Segmentation Head
 <br>
+
 #### Directory structure :
+```
 Hybridnets
 ├─hybridnets
 | ├─hybridnets.py
@@ -31,3 +33,4 @@ Hybridnets
 ├─Test_videos      # add you videos on which you want to detect lanes
 ├─output_videos     # give path of this folder whi;e saving the results
 ├─video_road_detection.py
+```
